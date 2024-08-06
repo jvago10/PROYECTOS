@@ -5,8 +5,8 @@ with open ('C:\PROYECTOS\EJERCICIOS_CLASES\EJERCICIOS_YOUTUBE\EJERCICIO_SOY_DALT
     
     
     #Agregando 2 líneas con writelines
-    archivo.writelines(["Hola chaval cómo andas\n", "mucho tiempo sin verte\n"])
+    archivo.writelines([" - Hola chaval cómo andas\n", " - mucho tiempo sin verte\n"])
     
     #Agregando 2 líneas con writelines
-    archivo.writelines(["Hola pibe cómo estás\n", "eres millonario o que\n"])
+    archivo.writelines([" - Hola pibe cómo estás\n", " - eres millonario o que\n"])
     
