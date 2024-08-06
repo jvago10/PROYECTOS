@@ -3,4 +3,10 @@ with open ('C:\PROYECTOS\EJERCICIOS_CLASES\EJERCICIOS_YOUTUBE\EJERCICIO_SOY_DALT
     #Sobreescribir el archivo
     #archivo.write("Hola, soy Jose. Este es mi primer texto.")
     
-    archivo.writelines(["Hola chaval cómo andas", ", mucho tiempo sin verte"])
+    
+    #Agregando 2 líneas con writelines
+    archivo.writelines(["Hola chaval cómo andas\n", "mucho tiempo sin verte\n"])
+    
+    #Agregando 2 líneas con writelines
+    archivo.writelines(["Hola pibe cómo estás\n", "eres millonario o que\n"])
+    
