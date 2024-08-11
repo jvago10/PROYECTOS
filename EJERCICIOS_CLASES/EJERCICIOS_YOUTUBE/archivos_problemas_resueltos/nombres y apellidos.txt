@@ -1,12 +1,17 @@
 Los datos son: 
+ 
 Nombre: Lucas
 Apellido: Dalto
-----------Nombre: Matías
+--------------
+Nombre: Matías
 Apellido: Zong
-----------Nombre: Camila
+--------------
+Nombre: Camila
 Apellido: Dalto
-----------Nombre: Pedro
+--------------
+Nombre: Pedro
 Apellido: Robertix
-----------Nombre: Roberto
+--------------
+Nombre: Roberto
 Apellido: Mongol
-----------
+--------------
