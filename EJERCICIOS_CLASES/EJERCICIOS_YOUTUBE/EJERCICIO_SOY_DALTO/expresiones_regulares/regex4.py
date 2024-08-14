@@ -1,7 +1,14 @@
 import re
 
-text = "reemplazando todas las vocales por astericos"
+email = "jose.vargas@intertech.network"
 
-new_text = re.sub("[aeiou]", "*",  text)
+pattern = "[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}"
 
-print(new_text)
+result = re.match(pattern, email)
+
+if result:
+    print("Dirección de correo válida")
+else:
+    print("Dirección de correo inválida") 
+    
+       
